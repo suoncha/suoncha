@@ -1,4 +1,2 @@
-- 👋 Hi, I’m @suoncha
-- 👀 I’m interested in Game Programming
-- 🌱 I’m currently learning Computer Science in HCMUT
-
+- I'm Suon Cha, a DevOps Engineer who's working for VNG Corporation (HCMC-Vietnam)
+- This GitHub account is mainly used for storing my school projects
