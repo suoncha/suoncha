@@ -1,2 +1,1 @@
-- I'm Suon Cha, a DevOps Engineer who's working for VNG Corporation (HCMC-Vietnam)
-- This GitHub account is mainly used for storing my school projects
+- I'm Suon Cha, a DevOps Engineer
